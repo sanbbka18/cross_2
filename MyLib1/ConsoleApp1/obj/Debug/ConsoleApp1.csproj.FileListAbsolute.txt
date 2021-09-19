@@ -1,0 +1,10 @@
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\bin\Debug\Task1.dll
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\bin\Debug\Task1.pdb
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

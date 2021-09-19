@@ -1,0 +1,5 @@
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\Task1\bin\Debug\Task1.dll
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\Task1\bin\Debug\Task1.pdb
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\Task1\obj\Debug\Task1.dll
+C:\Users\Sanbbka\Documents\3 курс 1 семестр\Інтернет речей\laba_1\MyLib1\Task1\obj\Debug\Task1.pdb
